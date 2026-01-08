@@ -9,7 +9,7 @@
   },
   "structures": [
     {
-      "structure": "sbr:end_portal",
+      "structure": "sbr:end_portal_root",
       "weight": 1
     }
   ]
