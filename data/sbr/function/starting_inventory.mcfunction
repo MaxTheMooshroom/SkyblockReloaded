@@ -1,4 +1,3 @@
-function sbr:starting_inventory
 
 scoreboard players set @s joined 1
 clear @s
