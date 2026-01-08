@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:notice",
+  "title": "Credit & Attributions",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "player": {
+          "name": "MaxTheMooshroom",
+          "model": "slim"
+        },
+        "extra": [
+          "Author"
+        ],
+        "click_event": {
+          "action": "open_url",
+          "url": "https://github.com/MaxTheMooshroom/"
+        },
+        "hover_event": {
+          "action": "show_text",
+          "value": "MaxTheMooshroom"
+        }
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "player": "PaladinAurum",
+        "extra": [
+          "Commissioner"
+        ],
+        "hover_event": {
+          "action": "show_text",
+          "value": "PaladinAurum"
+        }
+      }
+    }
+  ],
+  "can_close_with_escape": true,
+  "pause": true,
+  "after_action": "close"
+}

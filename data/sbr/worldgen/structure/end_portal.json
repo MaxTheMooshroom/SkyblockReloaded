@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#minecraft:has_structure/stronghold",
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "start_pool": "sbr:end_portal",
+  "size": 1,
+  "start_height": {
+    "absolute": 0
+  },
+  "start_jigsaw_name": "sbr:endportal_generator_anchor",
+  "max_distance_from_center": 5,
+  "use_expansion_hack": false,
+  "pool_aliases": []
+}
