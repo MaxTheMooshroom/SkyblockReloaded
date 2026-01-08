@@ -1,5 +1,5 @@
 
-scoreboard players add @s joined 1
+scoreboard players set @s joined 1
 clear @s
 give @s minecraft:water_bucket
 give @s minecraft:lava_bucket
