@@ -1,4 +1,4 @@
 {
   "replace": true,
-  "values": ["sbr:end_portal"]
+  "values": ["sbr:end_portal_root"]
 }
