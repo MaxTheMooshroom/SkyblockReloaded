@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "description": "For adding a 'real' skyblock challenge to your world",
-    "min_format": [94, 1],
-    "max_format": [94, 1]
-  }
-}
